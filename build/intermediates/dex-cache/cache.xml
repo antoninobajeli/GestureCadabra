@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b6f3fd41dae8c43531192af02ddf5429a1c44446">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/classes-92de6e3133e67b6ed57a1446ea6a3081e9ebd209.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/classes-fbc4e68b79198a4c97db88d07c40a912d8abcb4c.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/classes-c08991859711a000f1eaa8e36175f592d243a7e5.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/support-annotations-22.1.0-1e25a067b0fe015832da3cdafdb748cce7a3ac4d.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/classes-34c0ffa98e49b36fb56f3e6f98c20e43df056fed.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-ff7f145db7fb633327adc3fb02e74f6fccedb799.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/22.1.0/libs/internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="50c645d80504c40e34e6bb88360b9a5c1df99b0b">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.1.0-6309760a281331859c8947b094fbbfdda26dc470.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/classes-49b0531df3a8049afa07b6cd575ace99fcd2553f.jar" />
+    </item>
+    <item
+        jar="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/abajeli/Android studioProject/GestureCadabra/Wearable/build/intermediates/pre-dexed/debug/classes-c25d7ecad2b71df6512982e59df368784c2f3dcc.jar" />
+    </item>
+
+</items>
